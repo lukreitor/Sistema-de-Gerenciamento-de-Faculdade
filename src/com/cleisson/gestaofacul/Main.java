@@ -619,7 +619,7 @@ public class Main extends javax.swing.JFrame {
                     .addGroup(painelAEsquerdaLayout.createSequentialGroup()
                         .addGap(22, 22, 22)
                         .addComponent(txtDesenvolvedor)))
-                .addGap(0, 13, Short.MAX_VALUE))
+                .addGap(0, 12, Short.MAX_VALUE))
         );
         painelAEsquerdaLayout.setVerticalGroup(
             painelAEsquerdaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
