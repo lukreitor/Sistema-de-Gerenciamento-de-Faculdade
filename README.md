@@ -1,5 +1,5 @@
 # GestaoFacul
-Projeto da disciplina de Programação Orientada a Objetos
+Projeto da disciplina de Qualidade de Software
 
 ### Como compilar o projeto
 
